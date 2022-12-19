@@ -1,11 +1,11 @@
 ---
 title: "Interactive Crash Index"
-date: 2022-12-19
+date: 2022-12-17
 published: true
 tags: [dataviz, folium]
 excerpt: "Visualizing the crash index."
 folium-loader:
-  folium-chart-1: ["charts/crashindex.html", "400"]
+  folium-chart-1: ["charts/crashindex.html", "500"]
 toc: true
 toc_sticky: true
 ---
